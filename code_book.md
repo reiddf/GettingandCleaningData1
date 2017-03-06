@@ -1,4 +1,4 @@
-# Code book for the Getting and Cleaning Data Project
+## Code book for the Getting and Cleaning Data Project
 
 Variable			             |Description						                               |Values
 ---------------------------|-----------------------------------------------------|-----------------------
