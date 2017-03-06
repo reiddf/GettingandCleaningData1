@@ -206,8 +206,9 @@ main <- function ()
 
   fout2 <- file.path(getwd(), "data_cleansing_project_summary.csv")
   if (file.exists(fout2)) {  file.remove(fout2)}
-  write.csv(subjmeans, file = "data_cleansing_project_summary.csv")
-  
+  # write.table() using row.name=FALSE 
+  write.csv(subjmeans, file = "data_cleansing_project_summary.csv",row.names=FALSE)
+
   
 }
 
