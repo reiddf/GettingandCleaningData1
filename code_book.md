@@ -1,6 +1,6 @@
 
 Variable			             |Description						                               |Values
-==========================|=====================================================|======================
+---------------------------|-----------------------------------------------------|-----------------------
 subject				             |Subject ID, who performed the activity	|
 activity			             |Activity ID (from source file)|
 activity_name			         |Activity Name|
